@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 footer
+=======
+fsedfd
+test
+>>>>>>> vetva
